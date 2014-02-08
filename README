@@ -1,2 +1,3 @@
 GreenRiverMap 
 A working model of OGC compliants WMS layering inside Flex. Support Drag and Drops between MDI (multi-windows application) built on top of Adobe Cairngorm framework.
+![Alt text](/preview.jpg "GRM Preview")
