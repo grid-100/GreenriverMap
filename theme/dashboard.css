@@ -1,0 +1,30 @@
+p {
+	font-family: Lucida Grande;
+	font-size: 11px;
+	color: #333333;
+}
+a:link {
+	color: #3F7FBE;
+	font-weight: bold;
+	/*text-decoration: underline;*/
+}
+a:hover {
+	color: #CC0000;
+	text-decoration: none;
+}
+
+.hilight {
+	font-weight: bold;
+
+}
+.hilight2 {
+	font-style: italic;
+}
+
+.alignRight {
+	text-align: right;
+}
+.colorBlue {
+	color: #666666;
+
+}
